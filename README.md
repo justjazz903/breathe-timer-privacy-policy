@@ -2,7 +2,7 @@
 
 Last updated: June 13, 2026
 
-Breathe Timer (referred to as "the App") is built and maintained as a free utility. This service is provided at no cost and is intended for use as-is.
+Breathe Timer (referred to as "the App") is built and maintained as a paid application. This service is provided as-is.
 
 ### 1. Information Collection and Use
 The App is a **purely offline utility application**. Because the App operates strictly on your local device without any external network dependency:
